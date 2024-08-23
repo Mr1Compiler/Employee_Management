@@ -1,0 +1,9 @@
+E:\Projects\Employees Mangment\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\Projects\Employees Mangment\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\Projects\Employees Mangment\BusinessLayer\bin\Debug\DataAccessLayer.dll
+E:\Projects\Employees Mangment\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Projects\Employees Mangment\BusinessLayer\obj\Debug\AdminsBusinessLayer.csproj.AssemblyReference.cache
+E:\Projects\Employees Mangment\BusinessLayer\obj\Debug\AdminsBusinessLayer.csproj.CoreCompileInputs.cache
+E:\Projects\Employees Mangment\BusinessLayer\obj\Debug\AdminsBu.85CA4768.Up2Date
+E:\Projects\Employees Mangment\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\Projects\Employees Mangment\BusinessLayer\obj\Debug\BusinessLayer.pdb

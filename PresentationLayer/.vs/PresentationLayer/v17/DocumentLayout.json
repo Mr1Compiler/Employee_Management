@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\Employees Mangment\\PresentationLayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E34BD5B1-0B89-453C-9F92-490FA36D3CC9}|PresentationLayer.csproj|e:\\projects\\employees mangment\\presentationlayer\\main form\\frmmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E34BD5B1-0B89-453C-9F92-490FA36D3CC9}|PresentationLayer.csproj|solutionrelative:main form\\frmmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34BD5B1-0B89-453C-9F92-490FA36D3CC9}|PresentationLayer.csproj|e:\\projects\\employees mangment\\presentationlayer\\main form\\frmmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34BD5B1-0B89-453C-9F92-490FA36D3CC9}|PresentationLayer.csproj|solutionrelative:main form\\frmmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34BD5B1-0B89-453C-9F92-490FA36D3CC9}|PresentationLayer.csproj|e:\\projects\\employees mangment\\presentationlayer\\login form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34BD5B1-0B89-453C-9F92-490FA36D3CC9}|PresentationLayer.csproj|solutionrelative:login form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34BD5B1-0B89-453C-9F92-490FA36D3CC9}|PresentationLayer.csproj|e:\\projects\\employees mangment\\presentationlayer\\login form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E34BD5B1-0B89-453C-9F92-490FA36D3CC9}|PresentationLayer.csproj|solutionrelative:login form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34BD5B1-0B89-453C-9F92-490FA36D3CC9}|PresentationLayer.csproj|e:\\projects\\employees mangment\\presentationlayer\\user controls\\ucupdateemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E34BD5B1-0B89-453C-9F92-490FA36D3CC9}|PresentationLayer.csproj|solutionrelative:user controls\\ucupdateemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34BD5B1-0B89-453C-9F92-490FA36D3CC9}|PresentationLayer.csproj|e:\\projects\\employees mangment\\presentationlayer\\user controls\\ucupdateemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34BD5B1-0B89-453C-9F92-490FA36D3CC9}|PresentationLayer.csproj|solutionrelative:user controls\\ucupdateemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 258,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ucUpdateEmployee.cs",
+              "DocumentMoniker": "E:\\Projects\\Employees Mangment\\PresentationLayer\\User Controls\\ucUpdateEmployee.cs",
+              "RelativeDocumentMoniker": "User Controls\\ucUpdateEmployee.cs",
+              "ToolTip": "E:\\Projects\\Employees Mangment\\PresentationLayer\\User Controls\\ucUpdateEmployee.cs",
+              "RelativeToolTip": "User Controls\\ucUpdateEmployee.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAkwIAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T14:05:15.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ucUpdateEmployee.cs [Design]",
+              "DocumentMoniker": "E:\\Projects\\Employees Mangment\\PresentationLayer\\User Controls\\ucUpdateEmployee.cs",
+              "RelativeDocumentMoniker": "User Controls\\ucUpdateEmployee.cs",
+              "ToolTip": "E:\\Projects\\Employees Mangment\\PresentationLayer\\User Controls\\ucUpdateEmployee.cs [Design]",
+              "RelativeToolTip": "User Controls\\ucUpdateEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T14:05:10.776Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMainForm.cs",
+              "DocumentMoniker": "E:\\Projects\\Employees Mangment\\PresentationLayer\\Main Form\\frmMainForm.cs",
+              "RelativeDocumentMoniker": "Main Form\\frmMainForm.cs",
+              "ToolTip": "E:\\Projects\\Employees Mangment\\PresentationLayer\\Main Form\\frmMainForm.cs",
+              "RelativeToolTip": "Main Form\\frmMainForm.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAtwFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:36:50.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Projects\\Employees Mangment\\PresentationLayer\\Login Form\\Form1.cs",
+              "RelativeDocumentMoniker": "Login Form\\Form1.cs",
+              "ToolTip": "E:\\Projects\\Employees Mangment\\PresentationLayer\\Login Form\\Form1.cs",
+              "RelativeToolTip": "Login Form\\Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:36:12.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Projects\\Employees Mangment\\PresentationLayer\\Login Form\\Form1.cs",
+              "RelativeDocumentMoniker": "Login Form\\Form1.cs",
+              "ToolTip": "E:\\Projects\\Employees Mangment\\PresentationLayer\\Login Form\\Form1.cs [Design]",
+              "RelativeToolTip": "Login Form\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:36:05.339Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMainForm.cs [Design]",
+              "DocumentMoniker": "E:\\Projects\\Employees Mangment\\PresentationLayer\\Main Form\\frmMainForm.cs",
+              "RelativeDocumentMoniker": "Main Form\\frmMainForm.cs",
+              "ToolTip": "E:\\Projects\\Employees Mangment\\PresentationLayer\\Main Form\\frmMainForm.cs [Design]",
+              "RelativeToolTip": "Main Form\\frmMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:36:03.049Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
